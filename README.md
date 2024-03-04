@@ -12,11 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there my name is Byron 👋
+## Hi there my name is Byron 👋
 
-## I love building software solutions, big and small, to imrove your business, even if it's just increasing process effiency so that people can focus on what they love.
+ I love building software solutions, big and small, to imrove your business, even if it's just increasing process effiency so that people can focus on what they love.
 
-# Low Code Tools I'm failiar with:
+ Apart from work, I enjoy mountain biking, trail running and exploring new places. 
+
+### Low Code Tools I'm failiar with:
 
 - Make.com
 - Airtable.com
@@ -25,23 +27,40 @@ Here are some ideas to get you started:
 - Notion
 - CognitoForms
 
-# Languages I've familiar with:
+### Languages I'm familiar with:
 
 - PHP
 - JavaScript
 - Python
 
-# libries and Frameworks that I love:
+### Libries and Frameworks that I love:
 
 - Laravel
 - FilamentPHP
 - TailwindCSS
 
-# Systems I'm Familiar with:
+### More things I know:
 
+- HTML
+- CSS
+- SQL
+
+### Systems I've integrated with:
+
+- GSuite
 - Xero
 - Quickbooks
-- MarketMan
-- GSuite
 - ChatGPT
+- WordPress
+- WooCommerce
+- Asana
+- CognnitoForms
+- Stripe
+- PayFast
+- MarketMan
+- Twillo
+- MailChimp
+- Line.me
+
+...but seriously I can build an integration with anything that has an API.
 
