@@ -62,5 +62,3 @@ Here are some ideas to get you started:
 - MailChimp
 - Line.me
 
-...but seriously I can build an integration with anything that has an API.
-
