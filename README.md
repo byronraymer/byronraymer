@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 ## Hi there my name is Byron 👋
 
- I love building software solutions, big and small, to imrove your business, even if it's just increasing process effiency so that people can focus on what they love.
+ I love building software solutions, big and small, to improve business operations, so that people can focus on the things that matter.
 
- Apart from work, I enjoy mountain biking, trail running and exploring new places. 
+Out of the office, I enjoy mountain biking, trail running and exploring new places. 
 
-### Low Code Tools I'm failiar with:
+### Some Low Code Tools I'm failiar with:
 
 - Make.com
 - Airtable.com
@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 - n8n.io
 - Notion
 - CognitoForms
+- PowerAutomate
 
-### Languages I'm familiar with:
+### Programming Languages I'm familiar with:
 
 - PHP
 - JavaScript
@@ -39,13 +40,14 @@ Here are some ideas to get you started:
 - FilamentPHP
 - TailwindCSS
 
-### More things I know:
+### More languages I know:
 
 - HTML
 - CSS
 - SQL
+- BASH
 
-### Systems I've integrated with:
+### Some Systems I've integrated with:
 
 - GSuite
 - Xero
@@ -60,5 +62,12 @@ Here are some ideas to get you started:
 - MarketMan
 - Twillo
 - MailChimp
+- Mandrill
 - Line.me
+- ZohoBooks
+- ZohoCreator
+- Office365
+- ChatGPT
+- DataTill
+- Splynx
 
