@@ -72,4 +72,6 @@ Out of the office, I enjoy mountain biking, trail running and exploring new plac
 - ChatGPT
 - DataTill
 - Splynx
+- SP Center
+- RouterOS
 
