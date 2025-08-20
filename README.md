@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there I'm Byron 👋
+## Hi there 👋 I'm Byron  🚵‍♂️🏃‍♂️🧗‍♂️🤸‍♂️⚡
 
- I love helping busineses flourish. I enjoy using coding as a means to this end.
+I'm passionalte about the production of wealth, in our modern world, along with everything that underpins it and with a special interest in infrastureture.
+
+I love helping busineses flourish and using code as a means to this end.
 
 Out of the office, I enjoy mountain biking, trail running and exploring new places. 
 
