@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋 I'm Byron  🚵‍♂️🏃‍♂️🧗‍♂️🤸‍♂️⚡
 
-I'm passionalte about the production of wealth, in our modern world, along with everything that underpins it and with a special interest in infrastureture.
+I'm passionate about the production of wealth, in our modern world, along with everything that underpins it and with a special interest in infrastructure.
 
-I love helping busineses flourish and using code as a means to this end.
+I'm passionate about designing, developing and implementing solutions to solve real world problems and bringing about an advance in human flourishing.
+
+Here I use code a means to this end.
 
 Out of the office, I enjoy mountain biking, trail running and exploring new places. 
 
