@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋 I'm Byron  🚵‍♂️🏃‍♂️🧗‍♂️🤸‍♂️⚡
 
-I'm passionate about the production of wealth, in our modern world, along with everything that underpins it and with a special interest in infrastructure.
+I'm passionate about the production of wealth, in our modern world, along with everything that underpins it and with a special interest in infrastructure and financial systems.
 
 I'm passionate about designing, developing and implementing solutions to solve real world problems and bringing about an advance in human flourishing.
 
